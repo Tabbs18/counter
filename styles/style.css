@@ -1,0 +1,16 @@
+#counter-display{
+    text-align: center;
+    color: red;
+}
+
+.btn-div{
+    text-align: center;
+}
+
+button{
+    font-size: 24px;
+    border: 50%;
+    color: seagreen;
+    border: 2px, solid, seagreen;
+}
+
